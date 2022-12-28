@@ -6,6 +6,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanH3514&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
