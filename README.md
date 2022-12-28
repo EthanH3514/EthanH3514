@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanH3514&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanH3514&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### **📝Recent Blogs**
 <!-- BLOG-POST-LIST:START -->
 - [搜索指令](https://ethanh3514.github.io/2022/12/28/%E6%90%9C%E7%B4%A2%E6%8C%87%E4%BB%A4/)
 - [新冠记录帖](https://ethanh3514.github.io/2022/12/27/%E6%96%B0%E5%86%A0%E8%AE%B0%E5%BD%95%E5%B8%96/)
