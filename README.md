@@ -8,9 +8,9 @@
 
 ### **📝Recent Blogs**
 <!-- BLOG-POST-LIST:START -->
+- [AtCoder Beginner Contest 284 A-D题解](https://ethanh3514.github.io/2023/01/07/AtCoder-Beginner-Contest-284-A-D%E9%A2%98%E8%A7%A3/)
 - [牛客小白月赛65 A-D题解](https://ethanh3514.github.io/2023/01/06/%E7%89%9B%E5%AE%A2%E5%B0%8F%E7%99%BD%E6%9C%88%E8%B5%9B65-A-D%E9%A2%98%E8%A7%A3/)
 - [Codeforces Round 842 Div. 2 A-B题解](https://ethanh3514.github.io/2023/01/06/Codeforces-Round-842-Div-2-A-B%E9%A2%98%E8%A7%A3/)
 - [Codeforces Hello 2023题解A-C](https://ethanh3514.github.io/2023/01/04/Codeforces-Hello-2023%E9%A2%98%E8%A7%A3A-C/)
 - [一次TLE发现的代码规范问题](https://ethanh3514.github.io/2022/12/31/%E4%B8%80%E6%AC%A1TLE%E5%8F%91%E7%8E%B0%E7%9A%84%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83%E9%97%AE%E9%A2%98/)
-- [C++算法——Stein算法](https://ethanh3514.github.io/2022/12/29/C-%E7%AE%97%E6%B3%95%E2%80%94%E2%80%94Stein%E7%AE%97%E6%B3%95/)
 <!-- BLOG-POST-LIST:END -->
