@@ -8,9 +8,9 @@
 
 ### **📝Recent Blogs**
 <!-- BLOG-POST-LIST:START -->
+- [VSCode自动配置头文件](https://ethanh3514.github.io/2023/01/25/VSCode%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AE%E5%A4%B4%E6%96%87%E4%BB%B6/)
 - [春光复始 适常如斯](https://ethanh3514.github.io/2023/01/22/%E6%98%A5%E5%85%89%E5%A4%8D%E5%A7%8B-%E9%80%82%E5%B8%B8%E5%A6%82%E6%96%AF/)
 - [2023牛客寒假算法基础集训营2 题解](https://ethanh3514.github.io/2023/01/20/2023%E7%89%9B%E5%AE%A2%E5%AF%92%E5%81%87%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E9%9B%86%E8%AE%AD%E8%90%A52-%E9%A2%98%E8%A7%A3/)
 - [2023牛客寒假算法基础集训营3 题解](https://ethanh3514.github.io/2023/01/20/2023%E7%89%9B%E5%AE%A2%E5%AF%92%E5%81%87%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E9%9B%86%E8%AE%AD%E8%90%A53-%E9%A2%98%E8%A7%A3/)
 - [2023牛客寒假算法基础集训营1 题解](https://ethanh3514.github.io/2023/01/16/2023%E7%89%9B%E5%AE%A2%E5%AF%92%E5%81%87%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E9%9B%86%E8%AE%AD%E8%90%A51-%E9%A2%98%E8%A7%A3/)
-- [Codeforces Round 844 A-B题解](https://ethanh3514.github.io/2023/01/15/Codeforces-Round-844-A-B%E9%A2%98%E8%A7%A3/)
 <!-- BLOG-POST-LIST:END -->
