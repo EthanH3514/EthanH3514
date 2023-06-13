@@ -9,9 +9,9 @@
 
 ### **📝Recent Blogs**
 <!-- BLOG-POST-LIST:START -->
+- [考试周欢乐赛 题解](https://ethanh3514.github.io/2023/06/13/%E8%80%83%E8%AF%95%E5%91%A8%E6%AC%A2%E4%B9%90%E8%B5%9B-%E9%A2%98%E8%A7%A3/)
 - [线段树](https://ethanh3514.github.io/2023/06/13/%E7%BA%BF%E6%AE%B5%E6%A0%91/)
 - [GCPC 2022 题解](https://ethanh3514.github.io/2023/06/12/GCPC-2022-%E9%A2%98%E8%A7%A3/)
 - [CF Round 878&lpar;Div. 3&rpar;题解](https://ethanh3514.github.io/2023/06/07/CF-Round-878-Div-3-%E9%A2%98%E8%A7%A3/)
 - [随记](https://ethanh3514.github.io/2023/06/03/%E9%9A%8F%E8%AE%B0-1/)
-- [如梦一般荒诞](https://ethanh3514.github.io/2023/05/30/%E5%A6%82%E6%A2%A6%E4%B8%80%E8%88%AC%E8%8D%92%E8%AF%9E/)
 <!-- BLOG-POST-LIST:END -->
