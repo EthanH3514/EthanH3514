@@ -9,9 +9,9 @@
 
 ### **📝Recent Blogs**
 <!-- BLOG-POST-LIST:START -->
+- [HDU-5970 快读卡常](https://ethanh3514.github.io/2023/06/23/HDU-5970-%E5%BF%AB%E8%AF%BB%E5%8D%A1%E5%B8%B8/)
 - [CF Goodbye 2022 题解](https://ethanh3514.github.io/2023/06/22/CF-Goodbye-2022-%E9%A2%98%E8%A7%A3/)
 - [CF Round 879&lpar;Div. 2&rpar; 题解](https://ethanh3514.github.io/2023/06/21/CF-Round-879-Div-2-%E9%A2%98%E8%A7%A3/)
 - [CF Round 880&lpar;Div. 2&rpar; 题解](https://ethanh3514.github.io/2023/06/21/CF-Round-880-Div-2-%E9%A2%98%E8%A7%A3/)
 - [CF Round 881&lpar;Div. 3&rpar; 题解](https://ethanh3514.github.io/2023/06/21/CF-Round-881-Div-3-%E9%A2%98%E8%A7%A3/)
-- [HDU-4578 Transformation](https://ethanh3514.github.io/2023/06/16/HDU-4578-Transformation/)
 <!-- BLOG-POST-LIST:END -->
