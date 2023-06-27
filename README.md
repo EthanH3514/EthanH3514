@@ -9,9 +9,9 @@
 
 ### **📝Recent Blogs**
 <!-- BLOG-POST-LIST:START -->
+- [洛谷P3951 小凯的疑惑](https://ethanh3514.github.io/2023/06/27/%E6%B4%9B%E8%B0%B7P3951-%E5%B0%8F%E5%87%AF%E7%9A%84%E7%96%91%E6%83%91/)
 - [求逆元](https://ethanh3514.github.io/2023/06/26/%E6%B1%82%E9%80%86%E5%85%83/)
 - [HDU-5970 快读卡常](https://ethanh3514.github.io/2023/06/23/HDU-5970-%E5%BF%AB%E8%AF%BB%E5%8D%A1%E5%B8%B8/)
 - [CF Goodbye 2022 题解](https://ethanh3514.github.io/2023/06/22/CF-Goodbye-2022-%E9%A2%98%E8%A7%A3/)
 - [CF Round 879&lpar;Div. 2&rpar; 题解](https://ethanh3514.github.io/2023/06/21/CF-Round-879-Div-2-%E9%A2%98%E8%A7%A3/)
-- [CF Round 880&lpar;Div. 2&rpar; 题解](https://ethanh3514.github.io/2023/06/21/CF-Round-880-Div-2-%E9%A2%98%E8%A7%A3/)
 <!-- BLOG-POST-LIST:END -->
