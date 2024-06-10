@@ -11,9 +11,9 @@
 
 ### **📝Recent Blogs**
 <!-- BLOG-POST-LIST:START -->
+- [分布式ID 学习笔记](https://ethanh3514.github.io/2024/06/10/%E5%88%86%E5%B8%83%E5%BC%8FID-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 - [Gossip 协议 学习笔记](https://ethanh3514.github.io/2024/06/10/Gossip-%E5%8D%8F%E8%AE%AE-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 - [CAP BASE 理论 学习笔记](https://ethanh3514.github.io/2024/06/10/CAP-BASE-%E7%90%86%E8%AE%BA-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 - [设计模式-六大设计原则 学习笔记](https://ethanh3514.github.io/2024/06/03/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 - [双数组Trie树&lpar;DAT&rpar; 学习笔记](https://ethanh3514.github.io/2024/06/03/%E5%8F%8C%E6%95%B0%E7%BB%84Trie%E6%A0%91-DAT-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
-- [代码命名规范 学习笔记](https://ethanh3514.github.io/2024/06/02/%E4%BB%A3%E7%A0%81%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 <!-- BLOG-POST-LIST:END -->
