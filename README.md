@@ -1,8 +1,11 @@
 ### Hi there 👋, I'm EthanH3514!
 
-- 🌱 I’m currently learning CS in Shanghai University.
-- 🎈 Hoping to be a master in coding.
-- 🧐 想做一些对生活有用的东西
+- 🌱 I’m currently pursuing a Bachelor's degree in Computer Science and Technology at Shanghai University (2021–2025).
+- 🏆 Proudly achieved a perfect score and first place in Shanghai University's Advanced Mathematics Competition (2022).
+- 🥈 Earned an M Award in the American College Mathematical Modeling Competition (2023).
+- 🥉 Secured two bronze medals in ICPC (Nanjing, Jinan) and one bronze in CCPC (Shenzhen) in 2023, followed by a silver medal in the CCPC Shanghai Competition (2024).
+- 🎈 Aspiring to become a coding master and contribute to impactful projects.
+- 🧐 Passionate about building solutions that make a difference in everyday life.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanH3514&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanH3514&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
