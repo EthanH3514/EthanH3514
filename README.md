@@ -10,8 +10,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanH3514&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanH3514&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Welcome](https://www.ipip5.com/ipimg)
-
 ### **📝Recent Blogs**
 <!-- BLOG-POST-LIST:START -->
 - [2024 CCPC上海市赛 体验](https://ethanh3514.github.io/2024/06/22/2024-CCPC%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%B5%9B-%E4%BD%93%E9%AA%8C/)
